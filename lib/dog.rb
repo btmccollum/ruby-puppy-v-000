@@ -19,4 +19,4 @@ class Dog
     @@all.clear
   end
 end
-binding.pry
+# binding.pry
